@@ -3,8 +3,12 @@ This is fileA.txt
 This is an additional text in fileA.txt
 
 
+<<<<<<< HEAD
 This is indeed fileA
 
 Another Push for record purposes
 
 Testing for Changes
+=======
+This is indeed fileA
+>>>>>>> 2018406 (Added FileB, edited fileA)
