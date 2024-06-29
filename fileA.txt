@@ -1,2 +1,6 @@
 This is fileA.txt
+
 This is an additional text in fileA.txt
+
+
+This is indeed fileA
